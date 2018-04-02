@@ -8,7 +8,7 @@ public class bujursangkar {
         sisi1=6;
         sisi2=2;
                 
-    }
+   
     }
     
     void cetakinfo(){

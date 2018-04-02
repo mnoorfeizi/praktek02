@@ -12,6 +12,11 @@ public class bujursangkaraksi {
          System.out.println("luas bujursangkar = "+rl.hitungluas());
          rl.cetakluas();
          
-    }
+         
+         bujursangkar r2 = new bujursangkar();
+         r2.cetakinfo();
+         
+         bujursangkar r3 = new bujursangkar(50,30);
+         r3.cetakinfo();
     
 }
