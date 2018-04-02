@@ -9,4 +9,12 @@ public class bujursangkar {
         System.out.println("sisi2:"+sisi2);
         System.out.println("=================");
     }
+
+
+    double hitungluas(){
+        double luas;
+        luas=sisi1*sisi2;
+        return luas;
+
+
 }
