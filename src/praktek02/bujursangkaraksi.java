@@ -8,6 +8,8 @@ public class bujursangkaraksi {
          r1.sisi1 = 7;
          r1.sisi2 = 4;
          
+         r1.cetakinfo();
+         
     }
     
 }
