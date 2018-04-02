@@ -10,6 +10,7 @@ public class bujursangkaraksi {
          
          r1.cetakinfo();
          System.out.println("luas bujursangkar = "+rl.hitungluas());
+         rl.cetakluas();
          
     }
     
